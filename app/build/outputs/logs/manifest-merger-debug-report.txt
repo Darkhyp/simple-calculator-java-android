@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -40,25 +40,25 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Alex\.gradle\caches\transforms
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:3:5-37
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
-		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
-		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Alex\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -82,19 +82,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Al
 	android:theme
 		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:11:9-48
 activity#com.example.calculator.MainActivity
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:16:13-45
 	android:name
-		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Korovin\work\Education\Android\AndroidStudioProjects\Calculator\app\src\main\AndroidManifest.xml

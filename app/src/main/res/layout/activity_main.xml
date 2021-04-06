@@ -285,7 +285,7 @@
                 android:insetTop="2dp"
                 android:insetRight="2dp"
                 android:insetBottom="2dp"
-                android:onClick="addToNumber"
+                android:onClick="changeSign"
                 android:text="@string/_sign"
                 android:textColor="#500404"
                 android:textSize="24sp"

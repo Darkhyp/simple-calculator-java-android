@@ -18,7 +18,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Calculator" >
-        <activity android:name="com.example.calculator.MainActivity" >
+
+        <!-- android:theme="@style/Theme.Calculator"> -->
+        <!-- android:theme="@style/Theme.FullScreen" -->
+        <!-- android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" -->
+        <activity
+            android:name="com.example.calculator.MainActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
